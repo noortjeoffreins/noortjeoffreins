@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @noortjeoffreins
-- 🌱 I’m a creative strategist turning data analyst
-- ⚡ Please find my portfolio & passion projects here
+- 👋 Hi, my name is @noortjeoffreins
+- 🌱 I operate on the intersection of art and analytcs
+- 📈 I believe data is the most vivid kind of story waiting to be decoded
+- ⚡ Enjoy my portfolio & passion projects
 - 👀 Read on about my projects and reflections <a href=https://medium.com/@noortjeoffreins/>on Medium</a>
